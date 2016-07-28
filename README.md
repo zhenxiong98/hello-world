@@ -1,2 +1,4 @@
 # hello-world
-Just a repository
+Hi guys.
+
+ZenXio here, a 18 years old boy from Malaysia. New to coding.
